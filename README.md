@@ -1,4 +1,4 @@
-# 👨‍💻 Jack McCracken
+# 👨‍💻 Callum aka CyberTapir
 
 As a versatile creator specialising in web development, graphic design, and photography, I excel in HTML, CSS, JavaScript, Python, C#, and Visual Basic. I have over five years of experience building custom websites, designing logos, and capturing stunning images. I am passionate about crafting creative and user-friendly digital experiences. My diverse technical and design skills allow me to understand projects from multiple perspectives and deliver cohesive, impactful solutions for clients. I am always learning and expanding my capabilities to push the boundaries of what is possible.
 
@@ -39,6 +39,3 @@ As a versatile creator specialising in web development, graphic design, and phot
    I began my coding adventure around the age of 11 or 12, and since then, I've explored various aspects of technology and creativity. I'm familiar with web development languages such as HTML, CSS, and JavaScript, and I also have experience with Python, which has helped me solve a variety of problems.
 
 In addition to my programming skills, I have a passion for graphic design, which I've used to create visually appealing projects. I've also ventured into game design, learning C# to develop engaging and immersive experiences. Beyond the digital realm, I've dabbled in 3D modeling and photography, further broadening my creative skill set.
-
-[website]: https://jackbmc.com
-[youtube]: https://youtube.com/jackbmc
