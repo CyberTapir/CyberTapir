@@ -1,5 +1,5 @@
 # CyberTapir:
-🔭 I’m currently working on a Swift Recipe app<br>🌱 I’m currently learning Visual Basic<br>💬 Ask me about Visual Basic<br>⚡ Fun fact, I don't like the Git CLI
+🔭 I’m currently working on a game of Wordle in Visual Basic .NET with microsoft forms<br>🌱 I’m currently learning Visual Basic<br>💬 Ask me about Visual Basic<br>
 
 
 # 💻 Tech Stack:
