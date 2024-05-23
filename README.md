@@ -2,7 +2,6 @@
 <h3 align="center">A Visual Basic Connoisseur</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybertapir" alt="cybertapir" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=cybertapir)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **battleship**
 
